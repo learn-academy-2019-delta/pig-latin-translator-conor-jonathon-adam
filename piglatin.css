@@ -1,0 +1,30 @@
+
+body {
+    /* background-image: url(https://live.staticflickr.com/4001/4175690327_41d34f3bb0_z.jpg); */
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+    background-color: bisque;
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Amatic SC';
+
+}
+h1 {
+    font-family: 'Amatic SC';
+    font-size: 55px;
+
+
+}
+
+button {
+    height: 30px;
+    border-style: none;
+    border-radius: 80px;
+    font-style: oblique;
+    background: pink;
+
+}
+input {
+    border-radius: 60px;
+    border-style: none;
+}
